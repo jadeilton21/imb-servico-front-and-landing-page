@@ -14,7 +14,7 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have the 'imb-servico-front-and' title`, () => {
+  it(`should have the 'jadeilton-landing-page' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
     expect(app.title).toEqual('imb-servico-front-and');
@@ -24,6 +24,6 @@ describe('AppComponent', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, imb-servico-front-and');
+    expect(compiled.querySelector('h1')?.textContent).toContain('Hello,imb-servico-front-and!');
   });
 });
