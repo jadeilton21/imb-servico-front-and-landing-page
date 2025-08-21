@@ -1,8 +1,12 @@
 
 
-Com certeza! Aqui está um modelo de README para o seu projeto, formatado com Markdown e emojis para ficar mais "bonitinho" e profissional. Você pode copiar e colar este texto diretamente no seu arquivo README.md no GitHub.
 
 ❄️ IMB-SERVIÇOS IoT
+
+
+
+
+
 Solução Inteligente para Climatização Sustentável
 ✨ Resumo do Projeto
 A IMB-SERVIÇOS IoT é uma solução inovadora com alto potencial de mercado, criada para enfrentar o desafio do consumo excessivo de energia em regiões de clima quente, como o Cerrado. 🌡️
